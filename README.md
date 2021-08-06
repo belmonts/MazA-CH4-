@@ -11,7 +11,7 @@ Authors:
 To utilize the model user must download the zip file with associated update date, unzip the file and run the following commands in the Julia prompt.
 
 ```
-julia> include("RPinput[080621].jl")
+julia> include("RPinput[080521].jl")
 Main.Rho
 
 julia> include("zodiac[080621].jl")
